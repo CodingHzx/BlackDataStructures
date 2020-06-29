@@ -1,0 +1,3 @@
+﻿  main.cpp
+f:\blackdatastructures\linearlist\arraystack\arraystack\arrstack.h(84): warning C4715: “arrayStack<int>::pop”: 不是所有的控件路径都返回值
+  arrayStack.vcxproj -> F:\BlackDataStructures\LinearList\arrayStack\Debug\arrayStack.exe
